@@ -1,0 +1,14 @@
+[project]
+name = "cd-tuner_negpip-comfyui"
+description = "Nodes:Apply CDTuner, Apply Negapip. This extension provides the [a/CD(Color/Detail) Tuner](https://github.com/hako-mikan/sd-webui-cd-tuner) and the [a/Negative Prompt in the Prompt](https://github.com/hako-mikan/sd-webui-negpip) features."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/laksjdjf/cd-tuner_negpip-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "cd-tuner_negpip-ComfyUI"
+Icon = ""
